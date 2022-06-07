@@ -6,9 +6,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Você instalou a versão mais recente de `<docker>`
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Preparando o ambiente
 
-Para dodar o <docker-compose.yaml>, siga estas etapas:
+Para rodar o <docker-compose.yaml>, siga estas etapas:
 
 Antes de executar o docker-compose up, crie a rede observability com o comando
 ```
