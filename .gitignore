@@ -5,3 +5,4 @@ app/*.pyc
 app/__pycache__
 elasticsearch_data/
 .DS_Store
+*/.idea/*
